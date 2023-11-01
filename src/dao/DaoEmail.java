@@ -36,8 +36,8 @@ import servis.ServiceEmail;
  */
 public class DaoEmail implements ServiceEmail {
 
-    private String GMail = "fatiqnur@gmail.com";
-    private String pass = "ubwl qrza mcou bihj";
+    private String GMail = "email kamu";
+    private String pass = "sandi aplikasi email kamu";
     private Properties pros = new Properties();
     private Session ses = null;
 
